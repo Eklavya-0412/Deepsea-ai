@@ -46,7 +46,7 @@ Follow these steps to set up the project locally.
 
 1.  **Clone the Repository**
     ```bash
-    git clone https://github.com/shreyashi2609/deepsea-ai.git
+    git clone https://github.com/Eklavya-0412/Deepsea-ai.git
     cd deepsea-ai
     ```
 
