@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Deepsea-ai
-=======
 # 🌊 DEEPSEA-AI
 
 **Unveiling the Mysteries of the Deep with Environmental DNA & Artificial Intelligence**
@@ -106,4 +103,3 @@ The core of DEEPSEA-AI consists of three main components:
 1.  **DNATransformer**: Encodes raw DNA sequences into high-dimensional vectors.
 2.  **HierarchicalClassifier**: A multi-head MLP that takes embeddings and predicts taxonomic ranks.
 3.  **NoveltyVAE**: A Variational Autoencoder that learns the latent distribution of known species to flag anomalies as potential novel discoveries.
->>>>>>> a080429 (initial commit)
